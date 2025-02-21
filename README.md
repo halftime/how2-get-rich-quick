@@ -17,7 +17,7 @@ Actual marketing page from Napoleon https://lp.napoleonsports.be/lps/nl-be/bigwi
 
 But in reality the vig (overround) on every bet is compounded in the bookies favour.
 In this case it just happens to be on some niche markets... Throw-ins, tackles? Really?! Who bets on that?
-The fish who don't understand these niche markets have even lower liquidity and a even higher overround.
+The fish who don't understand these niche markets have even lower liquidity and an even higher overround.
 
 On a good day, the vig on every leg could be 5% (likely higher in reality)
 
