@@ -16,7 +16,9 @@ Actual marketing page from Napoleon https://lp.napoleonsports.be/lps/nl-be/bigwi
 **1 in 167 or 0.6% chance, if the odds would be 100% fair i.e: the person selling it to you would make 0 profit**
 
 But in reality the vig (overround) on every bet is compounded in the bookies favour.
+
 In this case it just happens to be on some niche markets... Throw-ins, tackles? Really?! Who bets on that?
+
 The fish who don't understand these niche markets have even lower liquidity and an even higher overround.
 
 On a good day, the vig on every leg could be 5% (likely higher in reality)
