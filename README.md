@@ -21,8 +21,9 @@ On a good day, the vig on every leg could be 5% (likely higher in reality)
 
 > 1.05^8 = 1.47
 
-By this simple trick. The vig goes from 5% to 47%. 
-This is how the bookies gets rich quick.
+**And just like that. The vig goes from 5% to 47%.**
 
+# Read the small letters
+GAMBLING CAN BE ADDICTIVE. STOP IN TIME! MORE INFO ON STOPOPTIJD.BE
 
 
