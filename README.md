@@ -19,13 +19,13 @@ But in reality the vig (overround) on every bet is compounded in the bookies fav
 
 In this case it just happens to be on some niche markets... Throw-ins, tackles? Really?! Who bets on that?
 
-The fish who don't understand these niche markets have even lower liquidity and an even higher overround.
-
 On a good day, the vig on every leg could be 5% (likely higher in reality)
 
 > 1.05^8 = 1.47
 
 **And just like that. The vig goes from 5% to 47%.**
+
+It's likely this unknown gambler who turned 35€ into 6443€ is DOWN overall.
 
 # Read the small letters
 GAMBLING CAN BE ADDICTIVE. STOP IN TIME! MORE INFO ON STOPOPTIJD.BE
