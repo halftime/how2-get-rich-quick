@@ -9,7 +9,7 @@ Actual marketing page from Napoleon https://lp.napoleonsports.be/lps/nl-be/bigwi
 
 > 1.9 * 1.9 * 1.92 * 1.9 * 2 * 1.78 * 1.9 * 1.88 = 167.46
 
-8 way combi of independent events
+8 leg combi of independent events
 
 > 1/167.46 = 0.0059
 
