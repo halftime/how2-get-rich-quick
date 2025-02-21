@@ -8,9 +8,11 @@ Actual marketing page from Napoleon https://lp.napoleonsports.be/lps/nl-be/bigwi
 ## The numbers
 
 > 1.9 * 1.9 * 1.92 * 1.9 * 2 * 1.78 * 1.9 * 1.88 = 167.46
+
 8 way combi of independent events
 
 > 1/167.46 = 0.0059
+
 **1 in 167 or 0.6% chance, if the odds would be 100% fair i.e: the person selling it to you would make 0 profit**
 
 But in reality the vig (overround) on every bet is compounded in the bookies favour.
