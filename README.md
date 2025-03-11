@@ -25,7 +25,9 @@ On a good day, the vig on every leg could be 5% (likely higher in reality)
 
 **And just like that. The vig goes from 5% to 47%.**
 
-It's (highly) likely this unknown gambler who turned 35€ into 6443€ is DOWN overall. (Yes, I'd money on that)
+It's (highly) likely this unknown gambler who turned 35€ into 6443€ is DOWN overall.
+
+https://youtu.be/unksvJ1JfDE?si=Y5FaFzt9Uyd1g1IK&t=639
 
 # Read the small letters (bottom image)
 *GAMBLING CAN BE ADDICTIVE. STOP IN TIME! MORE INFO ON STOPOPTIJD.BE*
